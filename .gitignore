@@ -4,3 +4,4 @@ target
 tmp
 _site
 pkg
+.idea
